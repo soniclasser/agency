@@ -774,3 +774,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+.icons{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
