@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e5cd60-9bea-453a-a19b-342d54575e8e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="$PROJECT_DIR$/js/contact_me.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/contact_me.php" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
     </list>
     <ignored path="agency.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,23 +27,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="716" column="18" selection-start-line="716" selection-start-column="18" selection-end-line="716" selection-end-column="18" />
+            <state relative-caret-position="-2178">
+              <caret line="308" column="92" selection-start-line="308" selection-start-column="92" selection-end-line="308" selection-end-column="92" />
               <folding>
-                <element signature="e#25118#25124#0" expanded="true" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#26946#26952#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <marker date="1484713962711" expanded="true" signature="1470:1477" ph="×" />
+                <marker date="1484713962711" expanded="true" signature="2148:2155" ph="×" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2988">
-              <caret line="587" column="25" selection-start-line="587" selection-start-column="25" selection-end-line="587" selection-end-column="25" />
+            <state relative-caret-position="407">
+              <caret line="782" column="1" selection-start-line="782" selection-start-column="1" selection-end-line="782" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -55,8 +82,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/js/contact_me.js" />
         <option value="$PROJECT_DIR$/css/agency.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -118,6 +147,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="agency" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agency" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mail" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,11 +253,12 @@
       <workItem from="1484376684236" duration="3745000" />
       <workItem from="1484435082649" duration="2256000" />
       <workItem from="1484628523368" duration="773000" />
+      <workItem from="1484713154080" duration="6047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16962000" />
+    <option name="totallyTimeSpent" value="23009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -258,10 +302,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12888">
+          <caret line="716" column="18" selection-start-line="716" selection-start-column="18" selection-end-line="716" selection-end-column="18" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26946#26952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2196">
           <caret line="122" column="52" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="52" />
           <folding>
-            <element signature="e#25118#25124#0" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26946#26952#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -279,7 +343,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#25118#25124#0" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26946#26952#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -289,7 +354,8 @@
         <state relative-caret-position="12240">
           <caret line="680" column="31" selection-start-line="680" selection-start-column="31" selection-end-line="680" selection-end-column="31" />
           <folding>
-            <element signature="e#25118#25124#0" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26946#26952#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -307,7 +373,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#25118#25124#0" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26946#26952#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -327,21 +394,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$USER_HOME$/Escritorio/agency-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="716" column="18" selection-start-line="716" selection-start-column="18" selection-end-line="716" selection-end-column="18" />
+        <state relative-caret-position="162">
+          <caret line="102" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="731" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
-            <element signature="e#25118#25124#0" expanded="true" />
+            <marker date="1484713962711" expanded="true" signature="1470:1477" ph="×" />
+            <marker date="1484713962711" expanded="true" signature="2148:2155" ph="×" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="4" column="45772" selection-start-line="4" selection-start-column="45772" selection-end-line="4" selection-end-column="45772" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2988">
-          <caret line="587" column="25" selection-start-line="587" selection-start-column="25" selection-end-line="587" selection-end-column="25" />
+        <state relative-caret-position="407">
+          <caret line="782" column="1" selection-start-line="782" selection-start-column="1" selection-end-line="782" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178">
+          <caret line="308" column="92" selection-start-line="308" selection-start-column="92" selection-end-line="308" selection-end-column="92" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#26946#26952#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
