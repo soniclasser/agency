@@ -255,8 +255,8 @@ fieldset[disabled] .btn-xl.active {
 
 }
 header {
-  background-image: url('/img/transformacion_digital.png');
-  /*  background-image: url('/img/course.jpg');*/
+  background-image: url('../img/transformacion_digital.png');
+  /*  background-image: url('../img/course.jpg');*/
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -585,7 +585,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #33691e;
-  background-image: url('/img/map-image.png');
+  background-image: url('../img/map-image.png');
   background-position: center;
   background-repeat: no-repeat;
 }
