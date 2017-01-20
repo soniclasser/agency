@@ -357,8 +357,13 @@
                             <embed src="http://www.youtube.com/embed/fmZFhaDHZ_Q"></embed>
                         </div>
                     </div>
-                    <div class="col-lg-2"></div>
                 </div>
+
+
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center buttonyoutube">
+                    <div class="g-ytsubscribe" data-channelid="UCEbaWFJwhbhIQ3Ava5eYuEg" data-layout="default" data-count="hidden" data-onytevent="onYtEvent"></div>                </div>
             </div>
         </div>
     </section>
@@ -754,6 +759,20 @@ Ofrecemos servicios administrativos y tecnológicos a pequeñas y medianas compa
 
     <!-- Theme JavaScript -->
     <script src="js/agency.min.js"></script>
+    <script src="https://apis.google.com/js/platform.js"></script>
+
+    <script>
+        function onYtEvent(payload) {
+            if (payload.eventType == 'subscribe') {
+                // Add code to handle subscribe event.
+            } else if (payload.eventType == 'unsubscribe') {
+                // Add code to handle unsubscribe event.
+            }
+            if (window.console) { // for debugging only
+                window.console.log('YT event: ', payload);
+            }
+        }
+    </script>
 
 </body>
 

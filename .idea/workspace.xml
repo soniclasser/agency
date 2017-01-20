@@ -27,11 +27,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="358" column="26" selection-start-line="358" selection-start-column="26" selection-end-line="358" selection-end-column="26" />
+            <state relative-caret-position="432">
+              <caret line="364" column="63" selection-start-line="364" selection-start-column="63" selection-end-line="364" selection-end-column="63" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#27222#27228#0" expanded="true" />
+                <element signature="e#27477#27483#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,8 +53,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="258" column="31" selection-start-line="258" selection-start-column="31" selection-end-line="258" selection-end-column="31" />
+            <state relative-caret-position="522">
+              <caret line="785" column="14" selection-start-line="785" selection-start-column="1" selection-end-line="785" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -129,8 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,6 +139,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,11 +214,12 @@
       <workItem from="1484628523368" duration="773000" />
       <workItem from="1484713154080" duration="6236000" />
       <workItem from="1484800826602" duration="562000" />
+      <workItem from="1484888182200" duration="1808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23760000" />
+    <option name="totallyTimeSpent" value="25568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -266,7 +267,7 @@
           <caret line="716" column="18" selection-start-line="716" selection-start-column="18" selection-end-line="716" selection-end-column="18" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#27222#27228#0" expanded="true" />
+            <element signature="e#27477#27483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -285,7 +286,7 @@
           <caret line="122" column="52" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="52" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#27222#27228#0" expanded="true" />
+            <element signature="e#27477#27483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -304,7 +305,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#27222#27228#0" expanded="true" />
+            <element signature="e#27477#27483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -315,7 +316,7 @@
           <caret line="680" column="31" selection-start-line="680" selection-start-column="31" selection-end-line="680" selection-end-column="31" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#27222#27228#0" expanded="true" />
+            <element signature="e#27477#27483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -334,7 +335,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#27222#27228#0" expanded="true" />
+            <element signature="e#27477#27483#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -397,19 +398,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="258" column="31" selection-start-line="258" selection-start-column="31" selection-end-line="258" selection-end-column="31" />
+        <state relative-caret-position="522">
+          <caret line="785" column="14" selection-start-line="785" selection-start-column="1" selection-end-line="785" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="358" column="26" selection-start-line="358" selection-start-column="26" selection-end-line="358" selection-end-column="26" />
+        <state relative-caret-position="432">
+          <caret line="364" column="63" selection-start-line="364" selection-start-column="63" selection-end-line="364" selection-end-column="63" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#27222#27228#0" expanded="true" />
+            <element signature="e#27477#27483#0" expanded="true" />
           </folding>
         </state>
       </provider>
